@@ -403,7 +403,7 @@ section{
 
 /* media queries */
 
-@media (max-width:985px){
+@media (max-width:991px){
 
     html{
         font-size: 55%;
@@ -415,7 +415,7 @@ section{
 
     .home .slide .content{
         text-align: left;
-        width: 50rem;
+        width: 30rem;
         padding-left: 9rem;
     }
 
@@ -450,7 +450,7 @@ section{
 
     .home .slide .content{
         text-align: left;
-        width: 30rem;
+        width: 40rem;
         padding-left: 9rem;
     }
 
