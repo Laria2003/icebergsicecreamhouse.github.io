@@ -403,7 +403,7 @@ section{
 
 /* media queries */
 
-@media (max-width:991px){
+@media (max-width:985px){
 
     html{
         font-size: 55%;
